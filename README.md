@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Midhunvsgit
-- 👀 interested in 🧑‍💻
+- 👋 Hi, I’m @Midhunvsgit here!
+- 👀 interested in programming 
 - 🌱 currently learning .py etc ...
 - 💞️ I’m looking to collaborate on ...
 - 📫  to reach me .. midbun872@gmail.com
-- soon projects will be uploaded with link and codes
+- soon projects will be uploaded with link and codesl codes
 
 <!---
 Midhunvsgit/Midhunvsgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
