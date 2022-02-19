@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Midhunvsgit here!
 - 👀 interested in programming
-- 🌱 currently learning .py etc ...
+- 🌱 currently learning 🐍,🐉 etc ...
 - 💞️ I’m looking to collaborate on ...
 - 📫  to reach me .. midbun872@gmail.com
 - soon projects will be uploaded with link and 
- codes(works in Kali Linux & Termux) -(ngrok server based)
+ codes(works in Kali Linux🐉) -(ngrok server based)
 
 
 <!---
