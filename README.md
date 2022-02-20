@@ -5,6 +5,9 @@
 - 📫  to reach me .. midbun872@gmail.com
 - soon projects will be uploaded with link and 
  codes(works in Kali Linux🐉 && termux)
+- while code<=die :
+______________________________________________
+Oops! Forgot to run the command😄▶️
 
 
 <!---
