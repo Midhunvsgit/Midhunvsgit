@@ -5,9 +5,11 @@
 - 📫  to reach me .. midbun872@gmail.com
 - soon projects will be uploaded with link and 
  codes(works in Kali Linux🐉 && termux)
-- while code<=die :
+- def life:
+-     while code<=die :
 ______________________________________________
-Oops! Forgot to run the command😄▶️
+Oops! you Forgot to 'run'▶️😅
+
 
 
 <!---
