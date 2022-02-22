@@ -3,8 +3,7 @@
 - 🌱 currently learning 🐍,👨‍💻 , ...
 - 💞️ I’m looking to collaborate on ...
 - 📫  to reach me .. midbun872@gmail.com
-- soon projects will be uploaded with link and 
- codes(works in Kali Linux🐉 && termux)
+-  🐉,termux..
 - def life:
 -     while code<=die :
 ______________________________________________
