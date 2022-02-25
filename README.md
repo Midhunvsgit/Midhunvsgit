@@ -3,7 +3,7 @@
 - 🌱 currently learning 🐍,👨‍💻 , ...
 - 💞️ I’m looking to collaborate on ...
 - 📫  to reach me .. midbun872@gmail.com
--  🐉,termux..
+- My code works in 🐉,termux..
 - def life:
 -     while code<=die :
 ______________________________________________
