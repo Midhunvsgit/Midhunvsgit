@@ -7,7 +7,7 @@
 - def life:
 -     while code<=die :
 ______________________________________________
-Oops! you Forgot to 'run'▶️😅
+Oops! you Forgot to 'run▶️' 😅
 
 
 
